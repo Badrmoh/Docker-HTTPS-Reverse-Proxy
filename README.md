@@ -1,7 +1,7 @@
 # Docker HTTPS Reverse Proxy 
 This is a project in which we containerize a HTTPS reverse proxy, namely NGINX, using Docker.  
 ## Getting Started
-Next, a guide on how to use the Revere Proxy is presented.
+Next, a guide on how to use the project is presented.
 ### Prequsites
 Three main parts are needed for this project to be properly working; Docker, NGINX, and Certbot. The version used are shown below, however, it is expected that latest versions will do the job as well. 
 
