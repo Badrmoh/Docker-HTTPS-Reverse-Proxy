@@ -128,6 +128,11 @@ After running the previous command, it will prompt the user asking about domains
 
 Badr Ibrahim 
 
+## Project's Contributors 
+
+Badr Ibrahim
+Hossam Alzamly
+
 ## License
 
 This project is licensed under the MIT License.
