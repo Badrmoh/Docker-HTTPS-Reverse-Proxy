@@ -131,7 +131,8 @@ Badr Ibrahim
 ## Project's Contributors 
 
 Badr Ibrahim
-Hossam Alzamly hossam.alzamly@gmail.com
+
+Hossam Alzamly : hossam.alzamly@gmail.com
 
 ## License
 
